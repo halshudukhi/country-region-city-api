@@ -23,8 +23,8 @@ var key = '00000000000000000000000000000000';
 2. Put together in an HTML form along with a username and password fields to get a form look and style.
 3. Country select field uses country codes in the value attribute of an option. In V2.0, country code was moved to the id attribute of the option and the country name was put in the value attribute for easier data collection.
 
-'''
+```
 code
-'''
+```
 
 # Sam-Shudukhi 
