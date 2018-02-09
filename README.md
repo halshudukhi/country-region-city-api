@@ -14,6 +14,17 @@ Original Demo provided by [MedUnes](https://codepen.io/medunes/pen/GWoojz), but 
 
 var key = '00000000000000000000000000000000';
 
+# Versions:
+* V1.0 --> Feb 7th, 2018.
+* V2.0 --> Feb 9th, 2018.
 
+- Latest Update:
+1. Design is slightly improved and updated, but kept the simple look for ease modifications by users.
+2. Put together in an HTML form along with a username and password fields to get a form look and style.
+3. Country select field uses country codes in the value attribute of an option. In V2.0, country code was moved to the id attribute of the option and the country name was put in the value attribute for easier data collection.
+
+'''
+code
+'''
 
 # Sam-Shudukhi 
